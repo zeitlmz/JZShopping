@@ -1,0 +1,12 @@
+# Project exclude paths
+/JZShoppingAccess/target/
+/JZShoppingAuth/target/
+/JZShoppingComment/target/
+/JZShoppingEntity/target/
+/JZShoppingGoodsBiz/target/
+/JZShoppingMvc/target/
+/JZShoppingNews/target/
+/JZShoppingRights/target/
+/JZShoppingSearch/target/
+/JZShoppingTrade/target/
+/JZShoppingUtils/target/

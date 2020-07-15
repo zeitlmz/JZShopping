@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/JZShoppingAccess/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingAuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingComment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingComment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingEntity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingGoodsBiz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingMvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingNews/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingRights/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingSearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingTrade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JZShoppingUtils/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

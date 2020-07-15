@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JZShoppingAuth" />
+        <module name="JZShoppingAccess" />
+        <module name="JZShoppingSearch" />
+        <module name="JZShoppingNews" />
+        <module name="JZShoppingTrade" />
+        <module name="JZShoppingMvc" />
+        <module name="JZShoppingEntity" />
+        <module name="JZShoppingUtils" />
+        <module name="JZShoppingGoodsBiz" />
+        <module name="JZShoppingComment" />
+        <module name="JZShoppingRights" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
+    <option name="DEBUGGING_INFO" value="false" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--默认阻止所有ajax请求在登陆前访问，在这里加入了请求的二级目录后才能直接访问-->
+<ajaxs>
+    <ajax>newsPage</ajax>
+    <ajax>addNews</ajax>
+    <ajax>newsRead</ajax>
+    <ajax>searchNews</ajax>
+    <ajax>login</ajax>
+    <ajax>sideNewsList</ajax>
+    <ajax>topics</ajax>
+    <ajax>getSession</ajax>
+    <ajax>newscomments</ajax>
+    <ajax>commns</ajax>
+</ajaxs>
